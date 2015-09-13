@@ -339,3 +339,6 @@ form.bComment .submit:hover, form.bComment .preview:hover, .compact_search_form 
 .moderation_msg p {
 	padding-top: 10px;
 }
+.sitewide_header {
+	margin-bottom: 0px !important;
+}
