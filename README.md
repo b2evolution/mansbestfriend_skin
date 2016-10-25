@@ -2,6 +2,12 @@
 
 <img src="skinshot.png"/>
 
+#### v1.1.1
+
+- Comment toolbar layout fix
+- Skin version fix
+- New skinshot
+
 #### v1.1.
 
 - Sitewide_header included for easier multi-blogging experience
